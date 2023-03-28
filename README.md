@@ -8,4 +8,4 @@ Mais, en réalité, cette équipe est bel est bien en vie. Dans cette saga de je
 
 Consultez le wiki pour plus d'informations sur l'histoire et la saga.
 
-Le premier épisode de cette saga est Genesis (en développement).
+Le premier épisode de cette saga est [Genesis] (en développement).
